@@ -1,7 +1,11 @@
 # Chrismas-tree-cli
 * a port repo
- to execute it use
-
+first
+make it executable
 ```bash
 sudo chmod x+ tree.sh
+```
+And execute it with
+```bash
+./tree.sh
 ```
