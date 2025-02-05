@@ -3,5 +3,5 @@
  to execute it use
 
 ```bash
-chmod x+ tree.sh
+sudo chmod x+ tree.sh
 ```
